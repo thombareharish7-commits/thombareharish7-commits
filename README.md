@@ -1,50 +1,94 @@
-# 👋 Hi, I'm Harish Thombare
+<!-- HEADER -->
+<div align="center">
 
-### 🏗️ Civil Engineering Student | Aspiring Civil Engineer | CAD & BIM Learner
+# 🏗️ HARISH THOMBARE
 
-Welcome to my GitHub profile! I'm a Civil Engineering student passionate about construction technology, structural design, drafting, and modern engineering solutions.
+### CIVIL ENGINEERING STUDENT | DESIGN & CONSTRUCTION ENTHUSIAST
 
-🌐 **Portfolio:** [View My Portfolio](https://harish-civil-portfolio-2026.netlify.app/)
+**Building ideas into structures through design, technology and innovation.**
+
+<a href="https://harish-civil-portfolio-2026.netlify.app/">
+  <img src="https://img.shields.io/badge/🌐_EXPLORE_MY_PORTFOLIO-Visit_Website-173B65?style=for-the-badge" />
+</a>
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 ABOUT ME
+
+I'm a Civil Engineering student interested in modern construction, structural design and digital engineering technologies.
 
 - 🎓 Civil Engineering Student
-- 📐 Interested in Structural Design and Construction
-- 🏢 Learning modern design and drafting technologies
-- 💡 Interested in practical engineering projects
-- 🚀 Continuously improving my technical skills
-
-## 🛠️ Technical Skills
-
-| Category | Skills |
-|---|---|
-| Design & Drafting | AutoCAD, Revit |
-| Productivity | MS Word, Excel, PowerPoint |
-| Core Knowledge | Quantity Estimation, Structural Drafting |
-| Learning | BIM, Building Construction |
-
-## 📂 Featured Portfolio
-
-Explore my work, technical skills, projects and professional journey.
-
-**[🌐 Visit My Civil Engineering Portfolio](https://harish-civil-portfolio-2026.netlify.app/)**
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thombareharish7-commits&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thombareharish7-commits&layout=compact&theme=tokyonight)
+- 📐 Interested in Structural Design & Drafting
+- 🏢 Learning AutoCAD and Revit
+- 🏗️ Exploring Building Information Modeling (BIM)
+- 🚀 Focused on practical learning and engineering innovation
 
 ---
 
-## 🤝 Connect With Me
+## 🛠️ TECHNICAL TOOLKIT
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
+<div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=googlechrome)](https://harish-civil-portfolio-2026.netlify.app/)
+| Design & Drafting | Productivity | Core Competencies |
+|:---:|:---:|:---:|
+| AutoCAD | MS Word | Quantity Estimation |
+| Revit | MS Excel | Structural Drafting |
+| BIM | PowerPoint | Building Detailing |
+
+</div>
 
 ---
 
-⭐ Thanks for visiting my profile!
+## 📁 FEATURED WORK
+
+<div align="center">
+
+<a href="https://github.com/thombareharish7-commits/harish-civil-portfolio">
+<img src="https://img.shields.io/badge/CIVIL_ENGINEERING_PORTFOLIO-Explore_Repository-173B65?style=for-the-badge&logo=github"/>
+</a>
+
+<br/><br/>
+
+<a href="https://harish-civil-portfolio-2026.netlify.app/">
+<img src="https://img.shields.io/badge/LIVE_PORTFOLIO-View_Projects-EA7628?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 📈 MY GITHUB
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=thombareharish7-commits&show_icons=true&theme=tokyonight&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+## 🤝 LET'S CONNECT
+
+<div align="center">
+
+<a href="https://harish-civil-portfolio-2026.netlify.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-173B65?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://github.com/thombareharish7-commits">
+<img src="https://img.shields.io/badge/GITHUB-24292E?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+**Thanks for visiting my profile!**
+
+⭐ *Learning • Designing • Building*
+
+</div>
